@@ -1,0 +1,31 @@
+Ans 
+=======
+1).
+
+As per my understanding of the requirement, I have written a python code which prints random numbers from 1 to 10.
+
+Command to Run : python cli_rand.py
+
+It will go to the new CLI like below and enter the command ==> "rand"
+
+random-cli>rand
+
+OutPut : 
+
+Random Number from [1-10] :  10
+Random Number from [1-10] :  4
+Random Number from [1-10] :  5
+Random Number from [1-10] :  5
+Random Number from [1-10] :  1
+Random Number from [1-10] :  8
+
+-----------------------------------------------------------------------------------------------
+
+2).
+
+During SSL offloading cpu load will increase - we can check using following commands (uptime, top, top, iostat, dstat)
+Then we can check the log files, if we use webserver and load balacer.
+Check  the 5xx Error to know the metrics of failed and success rates for incoming packets.
+
+If we use any Queue (rabbitmq or etc) server to handle the request to process the data then check the logs for failed queues.
+
