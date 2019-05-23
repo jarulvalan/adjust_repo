@@ -29,3 +29,7 @@ Check  the 5xx Error to know the metrics of failed and success rates for incomin
 
 If we use any Queue (rabbitmq or etc) server to handle the request to process the data then check the logs for failed queues.
 
+
+-----------------------------------------------------------------------------------------------
+
+Note : If my understanding of the requirement is wrong please let me know I would eager to work the challanging tasks.
